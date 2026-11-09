@@ -33,4 +33,4 @@ python3 RutaOptima.py
 
 ## Autora
 
-Sofi, Universidad EAFIT. Proyecto del parcial final de Algoritmos.
+Sofia Rojo Salazar, Universidad EAFIT. Proyecto del parcial final de Algoritmos.
